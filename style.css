@@ -1,9 +1,4 @@
-.negrito {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-weight: bold;
-
-}
-
-.negrito-forte {
-    background-color: brown;
+body {
+    margin: 0;
+    background-color: #F9F2C1;
 }
